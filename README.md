@@ -13,8 +13,6 @@
 - Shell Profile Modifications(T1546.004)
 - LD_PRELOAD Hİjacking(T1574.006)
 
--------------
-
 ## Detection Report Structure
 
 ```json 
