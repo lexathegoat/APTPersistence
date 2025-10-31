@@ -11,7 +11,7 @@
 - Systemd Services(T1543.002)
 - RC.local Scripts(T1037.004)
 - Shell Profile Modifications(T1546.004)
-- LD_PRELOAD Hİjacking(T1574.006)
+- LD_PRELOAD Hijacking(T1574.006)
 
 ## Detection Report Structure
 
